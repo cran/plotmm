@@ -1,9 +1,15 @@
 ---
 title: "NEWS.md"
 author: "Waggoner, Chan, Zhang"
-date: "07/08/2020"
-output: html_document
 ---
+
+# `plotmm` v0.1.1
+
+Transitioned most content from `README` to a vignette.
+
+Small bug fixes, mostly with examples in `R` files/source. Adding `\donttest{}` for now. Will address in detail later; dev currently in process but required to fix by 11/20/2022
+
+Adjusted `@details` for `plot_mix_comps()` to clarify the case where this makes sense (namely: 2-component Gaussian mixture models with equal priors and equal variances). Thanks to @pdmoerland in [issue #13](https://github.com/pdwaggoner/plotmm/issues/13) for pointing this out. Dev for more complex cases is in process.
 
 # `plotmm` v0.1.0
 
