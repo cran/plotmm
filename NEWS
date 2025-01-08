@@ -3,6 +3,11 @@ title: "NEWS.md"
 author: "Waggoner, Chan, Zhang"
 ---
 
+# `plotmm` v0.1.2
+
+Many changes and corrections across code base to address batch of version and import errors. All tests once again passing and package is stable.
+
+
 # `plotmm` v0.1.1
 
 Transitioned most content from `README` to a vignette.
